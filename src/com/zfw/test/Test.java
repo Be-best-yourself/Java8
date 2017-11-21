@@ -2,6 +2,6 @@ package com.zfw.test;
 
 public class Test {
 	public static void main(String[] args) {
-		System.out.println("³õÊ¼»¯git");
+		System.out.println("æµ‹è¯•git");
 	}
 }
