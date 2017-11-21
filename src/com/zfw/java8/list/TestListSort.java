@@ -8,7 +8,7 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-public class TestList {
+public class TestListSort {
 
 	private List<String> name1;
 	private List<Integer> name2;
